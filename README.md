@@ -1,0 +1,2 @@
+# WPBarCodeScaner
+barcode
